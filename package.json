@@ -18,7 +18,10 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.25.3",
     "nuxt": "^2.15.8",
+    "postcss": "^8.4.21",
+    "v-calendar": "^2.4.1",
     "vue": "^2.7.10",
+    "vue-multiselect": "^2.1.7",
     "vue-server-renderer": "^2.7.10",
     "vue-template-compiler": "^2.7.10"
   },
@@ -30,6 +33,10 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^4.0.0",
     "eslint-plugin-vue": "^9.5.1",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "sass": "^1.55.0",
+    "sass-loader": "10.1.1",
+    "tailwindcss": "^3.2.4",
+    "webpack": "^4.46.0"
   }
 }
